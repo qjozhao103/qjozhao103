@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Qijiao Zhao @qjozhao103
-- 👀 I’m interested in meditation, wathcing v-tuber/anime, reading fictions, travelling
+- 👀 I’m interested in wathcing V-tuber/Anime, meditation, reading fictions, travelling
 - 🌱 I’m currently learning Computer Science @UBC
 - 💞️ I’m looking to collaborate on software development
 - 📫 Please reach me @qijiaoz301@gmail.com
